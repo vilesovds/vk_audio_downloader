@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /setup.py
+
+downloads/
+vk_config.v2.json
